@@ -1,0 +1,8 @@
+#middle{
+    display: flex;
+    gap: 8px;
+    line-height: 0;
+}
+.Name{
+    line-height: 0;
+}
